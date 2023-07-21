@@ -1,0 +1,46 @@
+@import '../../variables.modules';
+
+.pink {
+  color: $pink;
+}
+
+.green {
+  color: $green;
+}
+
+.skills {
+  columns: 1;
+  @media only screen and (min-width: 940px) {
+    columns: 2;
+  }
+
+  li {
+    margin: 0;
+    line-height: 1.75;
+  }
+}
+
+.workExperienceItem {
+  margin-bottom: 1rem;
+  /* Add any other styles you want for the work experience items */
+}
+
+.descriptionList {
+  font-size: medium;
+  margin-left: 10px;
+  list-style-type: circle;
+}
+
+.position {
+  font-size: x-large;
+  font-style: italic;
+}
+
+.duration {
+  font-size: medium;
+  font-style: italic;
+}
+
+.company {
+  font-weight: bold;
+}
