@@ -1,4 +1,4 @@
-import self from '../img/self.hpg';
+import self from '../img/self.jpg';
 import { colors } from '../colors/mainGradient';
 import portfolioDemo from '../img/portfolio.png';
 import iotDemo from '../img/iot.png';
