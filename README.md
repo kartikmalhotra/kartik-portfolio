@@ -49,7 +49,7 @@ Attention: This is based on paytonjewell's [react-portfolio-template](https://gi
 
 ### 1. replace the images
 
-- replace `/src/assets/img/self.png`
+- replace `/src/assets/img/self.jpg`
 - replace `/public/favicon.ico`
 - replace `/public/website.jpg` (this is the image that shows up when you share the link on social media, you can take a screen shot when the infomation has been filled out)
 
