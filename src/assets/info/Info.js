@@ -6,8 +6,8 @@ import hellowoofySchedular from '../img/hellowoofySchedular.png'
 import selfTact from '../img/selftact.png'
 
 export const info = {
-  firstName: 'Kartik',
-  lastName: 'Malhotra',
+  firstName: 'Kartik Malhotra',
+  lastName: '',
   initials: 'KM', // the example uses first and last, but feel free to use three or more if you like.
   position: 'Full Stack Developer',
   selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
