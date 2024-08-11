@@ -92,7 +92,7 @@ export const info = {
     //   for the null ones, the button will not show up
     {
       title: 'Portfolio-Website',
-      live: 'https://kartik-portfolio-two.vercel.app/',
+      live: 'https://kartik-portfolio-zeta.vercel.app/',
       source: 'https://github.com/kartikmalhotra',
       image: portfolioDemo,
     },
