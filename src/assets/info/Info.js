@@ -9,7 +9,7 @@ export const info = {
   firstName: 'Kartik Malhotra',
   lastName: '',
   initials: 'KM', // the example uses first and last, but feel free to use three or more if you like.
-  position: 'Full-Stack Developer',
+  position: 'Full-Stack Developer.',
   selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
   gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
   baseColor: colors[0],
@@ -21,7 +21,7 @@ export const info = {
     },
     {
       emoji: '💻',
-      text: 'SDE II at Zignite Labs ( Remote )',
+      text: 'Software Development Engineer II at Zignite Labs (Remote) | Open to new opportunities',
     },
     {
       emoji: '📧',
@@ -35,7 +35,7 @@ export const info = {
       label: 'github',
     },
     {
-      link: 'https://www.linkedin.com/in/kartik-malhotra-995a6b152/',
+      link: 'https://www.linkedin.com/in/malhotra-kartik-developer/',
       icon: 'fa fa-linkedin',
       label: 'linkedin',
     },
@@ -45,12 +45,12 @@ export const info = {
       label: 'twitter',
     },
     {
-      link: 'https://drive.google.com/file/d/12dhxZPNsESMkuAaqRObaBiksyxt1J7kF/view?usp=sharing', // this should be https://yourname.com/resume.pdf once you've deployed
+      link: 'https://drive.google.com/file/d/19Y8J0pGmim3bvlFsMHKHKaI9SC8R6BD_/view?usp=sharing?usp=sharing', // this should be https://yourname.com/resume.pdf once you've deployed
       icon: 'fa fa-file-pdf-o',
       label: 'resume',
     },
    ],
-  bio: "Meet Kartik Malhotra a highly skilled Full stack developer and Mobile application developer dedicated to building and optimizing user-focused websites and mobile applications with 3+ years od hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.",
+  bio: "Meet Kartik Malhotra – a highly skilled Full Stack and Mobile Application Developer with over 5 years of hands-on experience in designing, developing, and implementing user-focused websites and mobile applications. Kartik is dedicated to delivering high-performance solutions using a wide range of technologies and programming languages, consistently optimizing for both functionality and user experience.",
   skills: {
     // you dont havew to strictly follow the 'languages', 'frameworks', 'databases', 'cloudServices', and 'tools' categories. You can add your own if you'd like.
     // but the structure should be the same, an array of strings and the key should be one word, no spaces.
@@ -121,10 +121,10 @@ export const info = {
       position: "Software Development Engineer - II",
       duration: "Jan 2022 - Present",
       description: [
-        "Created an Android SDK in Kotlin, allowing companies to take different posture tests using ML by integrating it into their app.",
-        "Converted an app called HelloWoofy Schedular from native codebase to Flutter. The application supports different channels ( Facebook, Tiktok, Snapchat, Instagram ) where user can post their content from the application.",
-        "Built a Selftact app that allows users to take selfies, and create a network of contacts. This app supports both offline and online modes to store their data, data is synchronized in real-time to every connected client. It has cool features such as AR Filter and showing the location at which a selfie is taken on Google Maps..",
-        "Created a website using Flutter and Nodejs for a Real Estate company",
+        "Architected and developed 5 cross-platform mobile apps using Flutter and Node.js/Django, delivering high-quality UI and scalable backend services.",
+       "Built modular Kotlin-based Android SDK with AI-powered health prediction features and secure backend sync, boosting user engagement by 40%.",
+       "Developed a Django system to automate Telegram bot workflows using ChatGPT integration and Stripe billing increasing MRR by 20%.",
+      "Boosted application scalability by reducing load time by 20% and server costs by 15% through efficient state management, lazy loading, and backend caching mechanisms using Flutter and Node.js."
       ],
     },
     {
@@ -132,9 +132,9 @@ export const info = {
       position: "Software Engineer",
       duration: "September 2021 - December 2022",
       description: [
-        "Created an application called NimbleThis PNM 2.0",
-        "Conducted rigorous unit testing for high-quality and secure application.",
-        "Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development. Pioneered new methods of code review to incorporate wider range of voices. Updated old code bases to modern development standards, improving functionality"
+       "Developed and maintained a cross-platform Flutter mobile application, implemented 10+ user-facing features that improved retention by 60%.",
+      "Led performance optimization efforts, reducing app startup time by 25% through widget tree refinement, deferred loading, and asset management.",
+      "Wrote unit and integration tests to ensure feature stability and minimize regression during frequent releases, improving QA handoff success rate by 30%."
       ],
     }
     // Add more work experience items here if needed
