@@ -54,9 +54,9 @@ export default function Home({ darkMode }) {
           >
             {info.firstName}
           </span>
-          <span className={Style.hand}>🤚</span>
+          <span className={Style.hand}> 🤚</span>
         </h1>
-        <h2>I'm a {info.position}.</h2>
+        <h2>{info.position}</h2>
         <Box component={'ul'} p={'0.8rem'}>
           {info.miniBio.map((bio, index) => (
             <EmojiBullet key={index} emoji={bio.emoji} text={bio.text} />
